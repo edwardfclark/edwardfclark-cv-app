@@ -37,15 +37,290 @@
         "blocks": [
           {
             "id": "5ee1fbbc23053b2fc41d72ed",
-            "type": "github",
+            "type": "GitHub",
             "order": 1,
             "link": "https://github.com/edwardfclark"
           },
           {
             "id": "5ee1fc0df3abc3b2b4659bbd",
-            "type": "linkedin",
+            "type": "LinkedIn",
             "order": 2,
             "link": "https://www.linkedin.com/in/edward-clark-687bb0178/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5ee2246a4f7b7389c7707c1c",
+    "title": "Skillset",
+    "order": 2,
+    "description": "Technical, Quantifiable Talents",
+    "machine_name": "skillset",
+    "blocks": [
+      {
+        "id": "5ee224d39f3d7fb038eb35f0",
+        "type": "heading",
+        "content": "JavaScript"
+      },
+      {
+        "id": "5ee2251d93afec42141fe34f",
+        "type": "text",
+        "content": "I am well-versed in modern, ES6 JavaScript and its core attendant technologies (HTML, CSS)."
+      },
+      {
+        "id": "5ee225fd4e59b07268ee7134",
+        "type": "heading",
+        "content": "React"
+      },
+      {
+        "id": "5ee22604e735f8e9693ac393",
+        "type": "text",
+        "content": "This is the JavaScript library with which I have the most professional experience. I currently spend most of the work week writing React."
+      },
+      {
+        "id": "5ee226960e87d604e7943fbe",
+        "type": "heading",
+        "content": "Javascript Libraries"
+      },
+      {
+        "id": "5ee2269f05efb9a4f77a30d9",
+        "type": "text",
+        "content": "I have worked with other common Front End libraries including Bootstrap, Sass, Styled Components, Apollo Server/Client, RabbitMQ/AMQPLib, and D3."
+      },
+      {
+        "id": "5ee226a5a865a79e0768c6ca",
+        "type": "heading",
+        "content": "Node.js and GraphQL"
+      },
+      {
+        "id": "5ee226b05f31dafdffdd93ec",
+        "type": "text",
+        "content": "I have some experience writing Back End JavaScript, as I was heavily involved in creating and maintaining a GraphQL server to act as an aggregation layer between the project’s Front End and its existing REST API."
+      },
+      {
+        "id": "5ee226b909b07e878692c99f",
+        "type": "heading",
+        "content": "Git"
+      },
+      {
+        "id": "5ee226c1fff6dbbe25a50d56",
+        "type": "text",
+        "content": "It’s the industry standard of version control technology and I use it almost every day."
+      }
+    ]
+  },
+  {
+    "id": "5ee227d3d860010f41347778",
+    "title": "Soft Skills",
+    "description": "Interpersonal Talents",
+    "order": 3,
+    "blocks": [
+      {
+        "id": "5ee2282970e64bf136dd4f2d",
+        "type": "heading",
+        "content": "Agile Development"
+      },
+      {
+        "id": "5ee2288113e9266e775b60f1",
+        "type": "text",
+        "content": "Agile is an effective and popular tool for writing software in a collaborative context, and I know how to work in an Agile team."
+      },
+      {
+        "id": "5ee228b4b32069a372a3ce3a",
+        "type": "heading",
+        "content": "Strong ability for self-study"
+      },
+      {
+        "id": "5ee228dcf43325a69d48f226",
+        "type": "text",
+        "content": "Programming requires an open mind and a willingness to maintain your skillset with new learning. I have the drive and discipline required to do this."
+      },
+      {
+        "id": "5ee2290c022e852af9452de5",
+        "type": "heading",
+        "content": "Business Development"
+      },
+      {
+        "id": "5ee22915a734b9b77c468feb",
+        "type": "text",
+        "content": "I understand what it takes to create a new business from scratch and have obtained a solid grounding in several related skills as a result. These include marketing (especially online), managing subcontractors, sales, strategic thinking, and leadership."
+      },
+      {
+        "id": "5ee2291c32f055c63cfc78d7",
+        "type": "heading",
+        "content": "Critical Thinking"
+      },
+      {
+        "id": "5ee22924ad5f1d9ac9d9f971",
+        "type": "text",
+        "content": "I understand that in order to produce successful work, you need to be open to criticism and review. This is true for any creative field, but it is especially true for programming. I have experience giving and taking criticism, as well as applying it to improve my work."
+      },
+      {
+        "id": "5ee2292dd114b7dfa1df16bc",
+        "type": "heading",
+        "content": "Copy Writing"
+      },
+      {
+        "id": "5ee229342fe3b26c7483286e",
+        "type": "text",
+        "content": "I have a high level of skill with written English and can write well on any subject given enough time for research."
+      }
+    ]
+  },
+  {
+    "id": "5ee229ed5b647530fae2435e",
+    "title": "Employment",
+    "description": "Where I've been, what I've done.",
+    "order": 4,
+    "blocks": [
+      {
+        "id": "5ee2292dd114b7dfa1df1345",
+        "type": "heading",
+        "content": "UI Engineer"
+      },
+      {
+        "id": "5ee229342fe3b26c7483223d",
+        "type": "text",
+        "content": "Salo Creative, Berkshire, 2020 - Present"
+      },
+      {
+        "id": "5ee229342fe3b26c748322f34",
+        "type": "text",
+        "content": "At Salo Creative, I was hired to write user-facing components using React.js and GraphQL. I was responsible for rebuilding much of the company’s website and making one of their existing applications responsive. Although this position was cut by COVID-19’s impact on the economy, I was able to make a positive impression in a relatively short time."
+      },
+      {
+        "id": "5ee2292dd114b7dfa1df34ry",
+        "type": "heading",
+        "content": "Front End Developer"
+      },
+      {
+        "id": "5ee229342fe3b26c74830975",
+        "type": "text",
+        "content": "Usay Compare, Gloucestershire, 2019 - 2020"
+      },
+      {
+        "id": "5ee229342fe3b26c7483eer3",
+        "type": "text",
+        "content": "I worked on the company’s 4CPlatform project as a Front End Developer, spending most of my time writing the user-facing components for a new Private Medical Insurance sales platform. I was responsible for writing clean, defensive, and modern code on the Front End with React.js. I also tied the Front End to the Back End by contributing to and maintaining the project’s GraphQL server, implemented using Apollo Server and Apollo Client."
+      },
+      {
+        "id": "5ee2292dd114b7dfa1df993w",
+        "type": "heading",
+        "content": "Founder & Photographer"
+      },
+      {
+        "id": "5ee229342fe3b26c74830frg",
+        "type": "text",
+        "content": "Empire State Photography, Gloucestershire, 2016 - 2018"
+      },
+      {
+        "id": "5ee229342fe3b26c7483e12d",
+        "type": "text",
+        "content": "I founded my own photography company. Here, I further developed my skills as a photographer and editor. I also acquired new skills related to business development."
+      }
+    ]
+  },
+  {
+    "id": "5ee22c8984f9c6176d9e5a8e",
+    "title": "References",
+    "description": "",
+    "order": 5,
+    "blocks": [
+      {
+        "id": "5ee1f9c1d9a16c61d946e767",
+        "type": "address",
+        "blocks": [
+          {
+            "id": "5ee22cd5b2802c4c57da0a53",
+            "type": "name",
+            "content": "Richard Comber"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a80",
+            "type": "line",
+            "content": "Salo Creative"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a81",
+            "type": "line",
+            "content": "6 Old Tollgate Close"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a82",
+            "type": "line",
+            "content": "Bracknell"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a83",
+            "type": "line",
+            "content": "Berkshire"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a84",
+            "type": "line",
+            "content": "United Kingdom"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a85",
+            "type": "line",
+            "content": "RG12 9RQ"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a86",
+            "type": "line",
+            "content": "07572 042799"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a87",
+            "type": "line",
+            "content": "rich@salocreative.co.uk"
+          }
+        ]
+      },
+      {
+        "id": "5ee1f9c1d9a16c61d946e777",
+        "type": "address",
+        "blocks": [
+          {
+            "id": "5ee22cd5b2802c4c57da0b93",
+            "type": "name",
+            "content": "Tim Stone"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a90",
+            "type": "line",
+            "content": "Salo Creative"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a91",
+            "type": "line",
+            "content": "6 Old Tollgate Close"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a92",
+            "type": "line",
+            "content": "Bracknell"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a93",
+            "type": "line",
+            "content": "Berkshire"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a94",
+            "type": "line",
+            "content": "United Kingdom"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a95",
+            "type": "line",
+            "content": "RG12 9RQ"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a97",
+            "type": "line",
+            "content": "tim@salocreative.co.uk"
           }
         ]
       }
