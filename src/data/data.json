@@ -220,5 +220,110 @@
         "content": "I founded my own photography company. Here, I further developed my skills as a photographer and editor. I also acquired new skills related to business development."
       }
     ]
+  },
+  {
+    "id": "5ee22c8984f9c6176d9e5a8e",
+    "title": "References",
+    "description": "",
+    "order": 5,
+    "blocks": [
+      {
+        "id": "5ee1f9c1d9a16c61d946e767",
+        "type": "address",
+        "blocks": [
+          {
+            "id": "5ee22cd5b2802c4c57da0a53",
+            "type": "name",
+            "content": "Richard Comber"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a80",
+            "type": "line",
+            "content": "Salo Creative"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a81",
+            "type": "line",
+            "content": "6 Old Tollgate Close"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a82",
+            "type": "line",
+            "content": "Bracknell"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a83",
+            "type": "line",
+            "content": "Berkshire"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a84",
+            "type": "line",
+            "content": "United Kingdom"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a85",
+            "type": "line",
+            "content": "RG12 9RQ"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a86",
+            "type": "line",
+            "content": "07572 042799"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a87",
+            "type": "line",
+            "content": "rich@salocreative.co.uk"
+          }
+        ]
+      },
+      {
+        "id": "5ee1f9c1d9a16c61d946e777",
+        "type": "address",
+        "blocks": [
+          {
+            "id": "5ee22cd5b2802c4c57da0b93",
+            "type": "name",
+            "content": "Tim Stone"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a90",
+            "type": "line",
+            "content": "Salo Creative"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a91",
+            "type": "line",
+            "content": "6 Old Tollgate Close"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a92",
+            "type": "line",
+            "content": "Bracknell"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a93",
+            "type": "line",
+            "content": "Berkshire"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a94",
+            "type": "line",
+            "content": "United Kingdom"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a95",
+            "type": "line",
+            "content": "RG12 9RQ"
+          },
+          {
+            "id": "5ee22cd5b2802c4c57da0a97",
+            "type": "line",
+            "content": "tim@salocreative.co.uk"
+          }
+        ]
+      }
+    ]
   }
 ]
