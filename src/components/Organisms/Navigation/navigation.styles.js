@@ -11,7 +11,7 @@ export const Wrapper = styled.div`
   z-index: 99; /* Put menu on top of other content. */
   overflow-y: auto;
   transition: margin-left 0.3s ease-in-out;
-  padding-top: 15rem;
+  padding-top: 14rem;
 
   ${({ active }) => {
     if (active) {

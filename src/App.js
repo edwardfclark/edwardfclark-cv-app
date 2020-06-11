@@ -12,6 +12,7 @@ import Page from "./components/Organisms/Page";
 import data from "./data/data.json";
 
 function App() {
+  // State variables
   const [active, setActive] = React.useState(false);
   const [selected, setSelected] = React.useState(data[0].id);
 

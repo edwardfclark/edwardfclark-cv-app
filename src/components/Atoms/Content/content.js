@@ -4,6 +4,7 @@ const Content = styled.div`
   margin-left: 0;
   transition: margin-left 0.3s ease-in-out;
   padding-left: 2rem;
+  padding-right: 2rem;
   max-width: 60rem;
 
   ${({ active }) => {
