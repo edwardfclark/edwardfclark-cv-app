@@ -1,13 +1,15 @@
 import React from "react";
 
 // COMPONENTS & STYLES
+import Layout from "./components/Atoms/Layout";
+import MenuLink from "./components/Molecules/MenuLink";
 import Title from "./components/Molecules/Title";
 
 function App() {
   return (
-    <React.Fragment>
+    <Layout>
       <Title />
-    </React.Fragment>
+    </Layout>
   );
 }
 
