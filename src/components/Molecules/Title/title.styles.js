@@ -1,5 +1,4 @@
 import styled from "styled-components";
 
-export const Wrapper = styled.div`
-  padding-left: 2rem;
-`;
+// This is its own component for responsive styling
+export const Wrapper = styled.div``;
