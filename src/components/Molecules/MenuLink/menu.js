@@ -5,10 +5,10 @@ import PropTypes from "prop-types";
 import Icon from "../../Atoms/Icon";
 import { MenuButton } from "./menu.styles";
 
-const MenuLink = ({ onClick }) => {
+const MenuLink = ({ onClick, active }) => {
   return (
-    <MenuButton onClick={onClick}>
-      <Icon />
+    <MenuButton onClick={onClick} active={active}>
+      <Icon type="menu" />
     </MenuButton>
   );
 };
