@@ -7,9 +7,12 @@ import MenuLink from "./components/Molecules/MenuLink";
 import Title from "./components/Molecules/Title";
 import Navigation from "./components/Organisms/Navigation";
 
+// HELPERS & CONSTANTS
+import data from "./data/data.json";
+
 function App() {
   const [active, setActive] = React.useState(false);
-
+  console.log("DATA", data);
   return (
     <Layout>
       <MenuLink onClick={() => setActive(!active)} active={active} />

@@ -2,12 +2,17 @@ import React from "react";
 import PropTypes from "prop-types";
 
 // COMPONENTS & STYLES
-import { Wrapper } from "./navigation.styles";
+import { Wrapper, NavLink } from "./navigation.styles";
+
+// HELPERS & CONSTANTS
+import data from "../../../data/data.json";
 
 const Navigation = ({ active }) => {
   return (
     <Wrapper active={active}>
-      <p>Navigation</p>
+      {data.map((page) => {
+        return <NavLink key={page.id}>{page.title}</NavLink>;
+      })}
     </Wrapper>
   );
 };
