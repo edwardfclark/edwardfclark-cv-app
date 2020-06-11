@@ -4,6 +4,7 @@ import { get, find } from "lodash";
 
 // COMPONENTS & STYLES
 import H2 from "../../Atoms/H2";
+import H3 from "../../Atoms/H3";
 import P from "../../Atoms/P";
 import Links from "../../Molecules/Links";
 
@@ -18,6 +19,8 @@ const Page = ({ selected }) => {
     switch (block.type) {
       case "text":
         return <P key={block.id}>{block.content}</P>;
+      case "heading":
+        return <H3 key={block.id}>{block.content}</H3>;
       case "links":
         return <Links key={block.id} blocks={get(block, "blocks", [])} />;
       default:

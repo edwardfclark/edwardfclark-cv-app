@@ -5,12 +5,11 @@ import PropTypes from "prop-types";
 import { Wrapper, Item, Link } from "./links.styles";
 
 const Links = ({ blocks }) => {
-  console.log("BLOCKS", blocks);
   return (
     <Wrapper>
       {blocks.map((block) => {
         return (
-          <Item>
+          <Item key={block.id}>
             <Link href={block.link}>{block.type}</Link>
           </Item>
         );

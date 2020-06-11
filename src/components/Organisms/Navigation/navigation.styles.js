@@ -24,6 +24,8 @@ export const Wrapper = styled.div`
 
 export const NavLink = styled.a`
   margin-left: 1rem;
+  display: block;
+  margin-bottom: 1rem;
   font-style: italic;
   font-weight: bold;
   cursor: pointer;

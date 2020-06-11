@@ -50,5 +50,64 @@
         ]
       }
     ]
+  },
+  {
+    "id": "5ee2246a4f7b7389c7707c1c",
+    "title": "Skillset",
+    "order": 2,
+    "description": "Technical, Quantifiable Talents",
+    "machine_name": "skillset",
+    "blocks": [
+      {
+        "id": "5ee224d39f3d7fb038eb35f0",
+        "type": "heading",
+        "content": "JavaScript"
+      },
+      {
+        "id": "5ee2251d93afec42141fe34f",
+        "type": "text",
+        "content": "I am well-versed in modern, ES6 JavaScript and its core attendant technologies (HTML, CSS)."
+      },
+      {
+        "id": "5ee225fd4e59b07268ee7134",
+        "type": "heading",
+        "content": "React"
+      },
+      {
+        "id": "5ee22604e735f8e9693ac393",
+        "type": "text",
+        "content": "This is the JavaScript library with which I have the most professional experience. I currently spend most of the work week writing React."
+      },
+      {
+        "id": "5ee226960e87d604e7943fbe",
+        "type": "heading",
+        "content": "Javascript Libraries"
+      },
+      {
+        "id": "5ee2269f05efb9a4f77a30d9",
+        "type": "text",
+        "content": "I have worked with other common Front End libraries including Bootstrap, Sass, Styled Components, Apollo Server/Client, RabbitMQ/AMQPLib, and D3."
+      },
+      {
+        "id": "5ee226a5a865a79e0768c6ca",
+        "type": "heading",
+        "content": "Node.js and GraphQL"
+      },
+      {
+        "id": "5ee226b05f31dafdffdd93ec",
+        "type": "text",
+        "content": "I have some experience writing Back End JavaScript, as I was heavily involved in creating and maintaining a GraphQL server to act as an aggregation layer between the project’s Front End and its existing REST API."
+      },
+      {
+        "id": "5ee226b909b07e878692c99f",
+        "type": "heading",
+        "content": "Git"
+      },
+      {
+        "id": "5ee226c1fff6dbbe25a50d56",
+        "type": "text",
+        "content": ". It’s the industry standard of version control technology and I use it almost every day."
+      }
+    ]
   }
 ]
