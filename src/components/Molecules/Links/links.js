@@ -18,4 +18,8 @@ const Links = ({ blocks }) => {
   );
 };
 
+Links.propTypes = {
+  blocks: PropTypes.array.isRequired,
+};
+
 export default Links;

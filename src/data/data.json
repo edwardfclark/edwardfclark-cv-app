@@ -106,7 +106,65 @@
       {
         "id": "5ee226c1fff6dbbe25a50d56",
         "type": "text",
-        "content": ". It’s the industry standard of version control technology and I use it almost every day."
+        "content": "It’s the industry standard of version control technology and I use it almost every day."
+      }
+    ]
+  },
+  {
+    "id": "5ee227d3d860010f41347778",
+    "title": "Soft Skills",
+    "description": "Interpersonal Talents",
+    "order": 3,
+    "blocks": [
+      {
+        "id": "5ee2282970e64bf136dd4f2d",
+        "type": "heading",
+        "content": "Agile Development"
+      },
+      {
+        "id": "5ee2288113e9266e775b60f1",
+        "type": "text",
+        "content": "Agile is an effective and popular tool for writing software in a collaborative context, and I know how to work in an Agile team."
+      },
+      {
+        "id": "5ee228b4b32069a372a3ce3a",
+        "type": "heading",
+        "content": "Strong ability for self-study"
+      },
+      {
+        "id": "5ee228dcf43325a69d48f226",
+        "type": "text",
+        "content": "Programming requires an open mind and a willingness to maintain your skillset with new learning. I have the drive and discipline required to do this."
+      },
+      {
+        "id": "5ee2290c022e852af9452de5",
+        "type": "heading",
+        "content": "Business Development"
+      },
+      {
+        "id": "5ee22915a734b9b77c468feb",
+        "type": "text",
+        "content": "I understand what it takes to create a new business from scratch and have obtained a solid grounding in several related skills as a result. These include marketing (especially online), managing subcontractors, sales, strategic thinking, and leadership."
+      },
+      {
+        "id": "5ee2291c32f055c63cfc78d7",
+        "type": "heading",
+        "content": "Critical Thinking"
+      },
+      {
+        "id": "5ee22924ad5f1d9ac9d9f971",
+        "type": "text",
+        "content": "I understand that in order to produce successful work, you need to be open to criticism and review. This is true for any creative field, but it is especially true for programming. I have experience giving and taking criticism, as well as applying it to improve my work."
+      },
+      {
+        "id": "5ee2292dd114b7dfa1df16bc",
+        "type": "heading",
+        "content": "Copy Writing"
+      },
+      {
+        "id": "5ee229342fe3b26c7483286e",
+        "type": "text",
+        "content": "I have a high level of skill with written English and can write well on any subject given enough time for research."
       }
     ]
   }
