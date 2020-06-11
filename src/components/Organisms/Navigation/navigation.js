@@ -7,11 +7,15 @@ import { Wrapper, NavLink } from "./navigation.styles";
 // HELPERS & CONSTANTS
 import data from "../../../data/data.json";
 
-const Navigation = ({ active }) => {
+const Navigation = ({ active, setSelected }) => {
   return (
     <Wrapper active={active}>
       {data.map((page) => {
-        return <NavLink key={page.id}>{page.title}</NavLink>;
+        return (
+          <NavLink key={page.id} onClick={() => setSelected(page.id)}>
+            {page.title}
+          </NavLink>
+        );
       })}
     </Wrapper>
   );
@@ -19,6 +23,7 @@ const Navigation = ({ active }) => {
 
 Navigation.propTypes = {
   active: PropTypes.bool,
+  setSelected: PropTypes.func.isRequired,
 };
 
 Navigation.defaultProps = {
