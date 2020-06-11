@@ -167,5 +167,58 @@
         "content": "I have a high level of skill with written English and can write well on any subject given enough time for research."
       }
     ]
+  },
+  {
+    "id": "5ee229ed5b647530fae2435e",
+    "title": "Employment",
+    "description": "Where I've been, what I've done.",
+    "order": 4,
+    "blocks": [
+      {
+        "id": "5ee2292dd114b7dfa1df1345",
+        "type": "heading",
+        "content": "UI Engineer"
+      },
+      {
+        "id": "5ee229342fe3b26c7483223d",
+        "type": "text",
+        "content": "Salo Creative, Berkshire, 2020 - Present"
+      },
+      {
+        "id": "5ee229342fe3b26c748322f34",
+        "type": "text",
+        "content": "At Salo Creative, I was hired to write user-facing components using React.js and GraphQL. I was responsible for rebuilding much of the company’s website and making one of their existing applications responsive. Although this position was cut by COVID-19’s impact on the economy, I was able to make a positive impression in a relatively short time."
+      },
+      {
+        "id": "5ee2292dd114b7dfa1df34ry",
+        "type": "heading",
+        "content": "Front End Developer"
+      },
+      {
+        "id": "5ee229342fe3b26c74830975",
+        "type": "text",
+        "content": "Usay Compare, Gloucestershire, 2019 - 2020"
+      },
+      {
+        "id": "5ee229342fe3b26c7483eer3",
+        "type": "text",
+        "content": "I worked on the company’s 4CPlatform project as a Front End Developer, spending most of my time writing the user-facing components for a new Private Medical Insurance sales platform. I was responsible for writing clean, defensive, and modern code on the Front End with React.js. I also tied the Front End to the Back End by contributing to and maintaining the project’s GraphQL server, implemented using Apollo Server and Apollo Client."
+      },
+      {
+        "id": "5ee2292dd114b7dfa1df993w",
+        "type": "heading",
+        "content": "Founder & Photographer"
+      },
+      {
+        "id": "5ee229342fe3b26c74830frg",
+        "type": "text",
+        "content": "Empire State Photography, Gloucestershire, 2016 - 2018"
+      },
+      {
+        "id": "5ee229342fe3b26c7483e12d",
+        "type": "text",
+        "content": "I founded my own photography company. Here, I further developed my skills as a photographer and editor. I also acquired new skills related to business development."
+      }
+    ]
   }
 ]
