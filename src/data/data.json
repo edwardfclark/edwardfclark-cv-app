@@ -37,13 +37,13 @@
         "blocks": [
           {
             "id": "5ee1fbbc23053b2fc41d72ed",
-            "type": "github",
+            "type": "GitHub",
             "order": 1,
             "link": "https://github.com/edwardfclark"
           },
           {
             "id": "5ee1fc0df3abc3b2b4659bbd",
-            "type": "linkedin",
+            "type": "LinkedIn",
             "order": 2,
             "link": "https://www.linkedin.com/in/edward-clark-687bb0178/"
           }
