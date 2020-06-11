@@ -1,0 +1,43 @@
+[{
+  "id": "5ee1f9c1d9a16c61d946e44a",
+  "title": "Professional Summary",
+  "description": "",
+  "machine_name": "professional_summary",
+  "order": 1,
+  "blocks": [{
+    "id": "5ee1fa4956baa14940c67486",
+    "type": "text",
+    "order": 1,
+    "content": "I’m a creative problem solver with five years of experience working in Technology, Design, and Photography. I have advanced knowledge of visual design and the ability to apply it in a programming context."
+  }, {
+    "id": "5ee1fa9928c926625d44ff94",
+    "type": "text",
+    "order": 2,
+    "content": "I have a strong ability for self-directed learning and a history of applying this to make successful contributions to companies in a variety of fields. My coworkers describe me as hardworking, passionate, and reliable."
+  }, {
+    "id": "5ee1fb1bba0dc6871c3c552f",
+    "type": "text",
+    "order": 3,
+    "content": "I have a special interest in Front End technologies and the JavaScript Ecosystem, and most of my professional experience has involved writing code in React.js and GraphQL."
+  }, {
+    "id": "5ee1fb2a4e2971086f4129af",
+    "type": "text",
+    "order": 4,
+    "content": "Links to my personal programming projects and experience can be found at:"
+  }, {
+    "id": "5ee1fb816f5311f22ec76774",
+    "type": "links",
+    "order": 5,
+    "blocks": [{
+      "id": "5ee1fbbc23053b2fc41d72ed",
+      "type": "github",
+      "order": 1,
+      "link": "https://github.com/edwardfclark"
+    }, {
+      "id": "5ee1fc0df3abc3b2b4659bbd",
+      "type": "linkedin",
+      "order": 2,
+      "link": "https://www.linkedin.com/in/edward-clark-687bb0178/"
+    }]
+  }]
+}]
