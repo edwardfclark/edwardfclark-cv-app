@@ -1,14 +1,11 @@
 import React from "react";
 
+// ICON IMPORTS
+import { faBars } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 const Icon = ({ type }) => {
-  return (
-    <svg fill="black">
-      <path
-        d="M13,3V9H21V3M13,21H21V11H13M3,21H11V15H3M3,13H11V3H3V13Z"
-        fill="black"
-      />
-    </svg>
-  );
+  return <FontAwesomeIcon icon={faBars} />;
 };
 
 export default Icon;
